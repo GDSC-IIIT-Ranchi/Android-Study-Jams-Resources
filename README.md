@@ -4,7 +4,6 @@
 This repository contains android study jams resources, applications, solutions and recorded sessions.
 </p>
 
-## MAD Score
 
 ![summary](images/ws_1.jpg)
 
